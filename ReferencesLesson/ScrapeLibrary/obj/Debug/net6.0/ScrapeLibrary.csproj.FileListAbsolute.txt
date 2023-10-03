@@ -1,0 +1,11 @@
+C:\Users\PELUMI\source\repos\ReferencesLesson\ScrapeLibrary\bin\Debug\net6.0\ScrapeLibrary.deps.json
+C:\Users\PELUMI\source\repos\ReferencesLesson\ScrapeLibrary\bin\Debug\net6.0\ScrapeLibrary.dll
+C:\Users\PELUMI\source\repos\ReferencesLesson\ScrapeLibrary\bin\Debug\net6.0\ScrapeLibrary.pdb
+C:\Users\PELUMI\source\repos\ReferencesLesson\ScrapeLibrary\obj\Debug\net6.0\ScrapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PELUMI\source\repos\ReferencesLesson\ScrapeLibrary\obj\Debug\net6.0\ScrapeLibrary.AssemblyInfoInputs.cache
+C:\Users\PELUMI\source\repos\ReferencesLesson\ScrapeLibrary\obj\Debug\net6.0\ScrapeLibrary.AssemblyInfo.cs
+C:\Users\PELUMI\source\repos\ReferencesLesson\ScrapeLibrary\obj\Debug\net6.0\ScrapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PELUMI\source\repos\ReferencesLesson\ScrapeLibrary\obj\Debug\net6.0\ScrapeLibrary.dll
+C:\Users\PELUMI\source\repos\ReferencesLesson\ScrapeLibrary\obj\Debug\net6.0\refint\ScrapeLibrary.dll
+C:\Users\PELUMI\source\repos\ReferencesLesson\ScrapeLibrary\obj\Debug\net6.0\ScrapeLibrary.pdb
+C:\Users\PELUMI\source\repos\ReferencesLesson\ScrapeLibrary\obj\Debug\net6.0\ref\ScrapeLibrary.dll
