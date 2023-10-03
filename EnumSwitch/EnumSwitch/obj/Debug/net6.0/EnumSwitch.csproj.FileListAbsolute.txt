@@ -1,0 +1,14 @@
+C:\Users\PELUMI\source\repos\EnumSwitch\EnumSwitch\obj\Debug\net6.0\EnumSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PELUMI\source\repos\EnumSwitch\EnumSwitch\obj\Debug\net6.0\EnumSwitch.AssemblyInfoInputs.cache
+C:\Users\PELUMI\source\repos\EnumSwitch\EnumSwitch\obj\Debug\net6.0\EnumSwitch.AssemblyInfo.cs
+C:\Users\PELUMI\source\repos\EnumSwitch\EnumSwitch\obj\Debug\net6.0\EnumSwitch.csproj.CoreCompileInputs.cache
+C:\Users\PELUMI\source\repos\EnumSwitch\EnumSwitch\bin\Debug\net6.0\EnumSwitch.exe
+C:\Users\PELUMI\source\repos\EnumSwitch\EnumSwitch\bin\Debug\net6.0\EnumSwitch.deps.json
+C:\Users\PELUMI\source\repos\EnumSwitch\EnumSwitch\bin\Debug\net6.0\EnumSwitch.runtimeconfig.json
+C:\Users\PELUMI\source\repos\EnumSwitch\EnumSwitch\bin\Debug\net6.0\EnumSwitch.dll
+C:\Users\PELUMI\source\repos\EnumSwitch\EnumSwitch\bin\Debug\net6.0\EnumSwitch.pdb
+C:\Users\PELUMI\source\repos\EnumSwitch\EnumSwitch\obj\Debug\net6.0\EnumSwitch.dll
+C:\Users\PELUMI\source\repos\EnumSwitch\EnumSwitch\obj\Debug\net6.0\refint\EnumSwitch.dll
+C:\Users\PELUMI\source\repos\EnumSwitch\EnumSwitch\obj\Debug\net6.0\EnumSwitch.pdb
+C:\Users\PELUMI\source\repos\EnumSwitch\EnumSwitch\obj\Debug\net6.0\EnumSwitch.genruntimeconfig.cache
+C:\Users\PELUMI\source\repos\EnumSwitch\EnumSwitch\obj\Debug\net6.0\ref\EnumSwitch.dll

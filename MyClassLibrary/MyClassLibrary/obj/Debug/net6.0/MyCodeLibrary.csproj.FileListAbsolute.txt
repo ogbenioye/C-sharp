@@ -1,0 +1,11 @@
+C:\Users\PELUMI\source\repos\MyClassLibrary\MyClassLibrary\bin\Debug\net6.0\MyCodeLibrary.deps.json
+C:\Users\PELUMI\source\repos\MyClassLibrary\MyClassLibrary\bin\Debug\net6.0\MyCodeLibrary.dll
+C:\Users\PELUMI\source\repos\MyClassLibrary\MyClassLibrary\bin\Debug\net6.0\MyCodeLibrary.pdb
+C:\Users\PELUMI\source\repos\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\MyCodeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PELUMI\source\repos\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\MyCodeLibrary.AssemblyInfoInputs.cache
+C:\Users\PELUMI\source\repos\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\MyCodeLibrary.AssemblyInfo.cs
+C:\Users\PELUMI\source\repos\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\MyCodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PELUMI\source\repos\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\MyCodeLibrary.dll
+C:\Users\PELUMI\source\repos\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\refint\MyCodeLibrary.dll
+C:\Users\PELUMI\source\repos\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\MyCodeLibrary.pdb
+C:\Users\PELUMI\source\repos\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\ref\MyCodeLibrary.dll
