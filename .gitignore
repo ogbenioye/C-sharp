@@ -3,22 +3,6 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-03ifStatement/
-04forIteration/
-05arrays/
-06methods/
-07whileIteration/
-08WorkingWithStrings/
-09DatesAndTimes/
-10classes/
-12understandingScope/
-13ReferencesLesson/
-14WorkingWithCollections/
-15EnumSwitch/
-16UnderstandingLINQ/
-17HandlingExceptions/
-
-
 # User-specific files
 *.rsuser
 *.suo
